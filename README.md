@@ -48,7 +48,7 @@
 ## 🏗 Architecture
 
 <div align="center">
-<img src="architecture_detailed.png" alt="The 2026 Uber Real-Time Data Engineering Ecosystem" width="100%"/>
+<img src="architecture_detailed..png" alt="The 2026 Uber Real-Time Data Engineering Ecosystem" width="100%"/>
 </div>
 
 <br/>
